@@ -1,4 +1,8 @@
-## Hi there 👋
+## Anything that solves a problem count me in
+
+An extremely curious and wanna do.
+
+Blockchain, Space, Photonics and quantum computing
 
 <!--
 **Afubwa/Afubwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
